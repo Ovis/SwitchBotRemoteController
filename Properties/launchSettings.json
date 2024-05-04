@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SwitchBotRemoteController": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31123,
+      "useSSL": false
+    }
+  }
+}
